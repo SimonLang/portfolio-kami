@@ -24,7 +24,7 @@ theme_settings:
   dribbble:
   facebook:
   flickr:
-  github: https://github.com/SimonLang # github profile name, e.g. "SimonLang"
+  github: https://github.com/SimonLang  # github profile name, e.g. "SimonLang"
   google_plus: https://plus.google.com/u/0/105690453641119776415
   instagram:
   linkedin:  # Full URL
@@ -39,7 +39,7 @@ theme_settings:
   youtube: https://www.youtube.com/channel/UCDuv2mIN9tFvMK0cj169OQA
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-90366772-1" # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
 
